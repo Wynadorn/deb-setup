@@ -1,5 +1,6 @@
 #!/bin/bash
 mv /home/wyna/deb-setup/* /home/wyna/
+rm -r /home/wyna/deb-setup
 mkdir /home/wyna/scripts
 mkdir /home/wyna/notes
 mkdir /home/wyna/downloads
