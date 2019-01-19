@@ -8,6 +8,6 @@ mv /home/wyna/scripts/install/sources.list /etc/apt/sources.list
 apt update
 
 apt install -y debfoster 
-apt install -y sudo vim tmux git
+apt install -y sudo vim tmux man
 apt install -y elinks fim
 debfoster
