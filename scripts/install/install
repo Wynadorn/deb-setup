@@ -1,8 +1,8 @@
 #!/bin/bash
+mv /home/wyna/deb-setup/* /home/wyna/
 mkdir /home/wyna/scripts
 mkdir /home/wyna/notes
 mkdir /home/wyna/downloads
-mv ../install /home/wyna/scripts/install
 
 mv /home/wyna/scripts/install/sources.list /etc/apt/sources.list
 apt update
